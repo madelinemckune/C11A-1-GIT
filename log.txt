@@ -1,3 +1,15 @@
+commit 5af4904e151e749bff69479253f058051f565a20
+Author: madelinemckune <madelinemckune@mymail.mines.edu>
+Date:   Tue Oct 2 14:41:15 2018 -0600
+
+    changed mouth color to red and mouth size /4
+
+commit 9557434d659a5554bfabd9709f32ad577a4998a5
+Author: edward <eyi@mines.edu>
+Date:   Tue Oct 2 14:37:52 2018 -0600
+
+    updated git log
+
 commit 5bc1aa429e77e1f4374744902f917c3a6a582f43
 Author: edward <eyi@mines.edu>
 Date:   Tue Oct 2 14:36:31 2018 -0600
