@@ -1,3 +1,15 @@
+commit d6257c1ea2fa136003c3d375f52888a4bfce82da
+Author: madelinemckune <madelinemckune@mymail.mines.edu>
+Date:   Tue Oct 2 14:46:55 2018 -0600
+
+    changed head dimension
+
+commit d84494f13e4d8e8ae958dc710c042aca5a2999ba
+Author: edward <eyi@mines.edu>
+Date:   Tue Oct 2 14:45:57 2018 -0600
+
+    Adding git log
+
 commit ca30d0286841b95f377895354f6c132870cb864c
 Author: edward <eyi@mines.edu>
 Date:   Tue Oct 2 14:45:09 2018 -0600
