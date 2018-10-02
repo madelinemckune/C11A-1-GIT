@@ -1,3 +1,9 @@
+commit 845755415d673a1a6cc9286084d74e55f1d4ad9c
+Author: madelinemckune <madelinemckune@mymail.mines.edu>
+Date:   Tue Oct 2 14:47:12 2018 -0600
+
+    updated git log
+
 commit d6257c1ea2fa136003c3d375f52888a4bfce82da
 Author: madelinemckune <madelinemckune@mymail.mines.edu>
 Date:   Tue Oct 2 14:46:55 2018 -0600
