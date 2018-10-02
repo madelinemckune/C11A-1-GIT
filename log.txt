@@ -1,0 +1,29 @@
+commit 5bc1aa429e77e1f4374744902f917c3a6a582f43
+Author: edward <eyi@mines.edu>
+Date:   Tue Oct 2 14:36:31 2018 -0600
+
+    changed mouth,eyes,head color
+
+commit 85a1c8d553ce87484ebe453c9768e280b307ce84
+Author: madelinemckune <madelinemckune@mymail.mines.edu>
+Date:   Sun Sep 30 20:15:41 2018 -0600
+
+    added classpath and .project to gitignore
+
+commit be6b3a8f5013f5aedd4301fe7942d01a05170770
+Author: madelinemckune <madelinemckune@mymail.mines.edu>
+Date:   Sun Sep 30 20:13:19 2018 -0600
+
+    imported myDrawing and Cat
+
+commit bc4f1e8d4954f854c20e30b0e06f7a2be57396c0
+Author: madelinemckune <42918190+madelinemckune@users.noreply.github.com>
+Date:   Sun Sep 30 20:01:21 2018 -0600
+
+    Create .gitignore
+
+commit 0e9907f306ba5cf26e67fbb597e4b68b8a2dd0f4
+Author: madelinemckune <42918190+madelinemckune@users.noreply.github.com>
+Date:   Sun Sep 30 20:00:33 2018 -0600
+
+    Initial commit
