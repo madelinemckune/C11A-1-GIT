@@ -1,3 +1,15 @@
+commit ca30d0286841b95f377895354f6c132870cb864c
+Author: edward <eyi@mines.edu>
+Date:   Tue Oct 2 14:45:09 2018 -0600
+
+    Change eye color to blue, added one for x,y for the head oval
+
+commit af9df3a25b08d4712af926afc48118430dc2fd9c
+Author: madelinemckune <madelinemckune@mymail.mines.edu>
+Date:   Tue Oct 2 14:41:56 2018 -0600
+
+    updated log file
+
 commit 5af4904e151e749bff69479253f058051f565a20
 Author: madelinemckune <madelinemckune@mymail.mines.edu>
 Date:   Tue Oct 2 14:41:15 2018 -0600
